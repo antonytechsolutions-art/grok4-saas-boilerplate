@@ -30,3 +30,5 @@ After payment you'll be invited to the private repo + get all future updates fre
 Built by a full-stack dev who's already made $15k+ with this exact stack.
 
 Stop planning. Start shipping.
+NOTE: Create .env.local in root and add:
+GROK_API_KEY=your_own_key_here
