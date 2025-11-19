@@ -1,3 +1,4 @@
+// app/api/chat/route.ts
 import { grok4 } from '@/lib/grok';
 import { StreamingTextResponse, streamText } from 'ai';
 
